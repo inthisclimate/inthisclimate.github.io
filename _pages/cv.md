@@ -20,7 +20,7 @@ redirect_from:
 
 ## Education
 
-- **Ph.D., Geography, Environment & Spatial Science | Dual-Degree Environmental Science & Public Policy**, Michigan State University, 2023
+- **Ph.D., Geography, Environment & Spatial Science; Dual-Degree Environmental Science & Public Policy**, Michigan State University, 2023
 - **B.S., Scientific & Technical Communication**, Michigan Technological University, 2013
 
 ## Work experience
