@@ -11,7 +11,7 @@ redirect_from:
 
 Download CV here
 
-Education
+Education testing 
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
